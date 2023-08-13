@@ -1,5 +1,19 @@
-This was recovered from the jar because I lost the original source code. I remember the original had chinese letters in it. This is good for exploiting proot access on minecraft hosts like shockbyte and stealing their multicraft license key lol
+# cloud-shell (EN)
 
-Before you upload the jar, open the jar with 7zip and edit the port in application.properties to a random number
+Chinese spy drone app to gain proot shell access to Minecraft server hosts. 
 
-USE AT YOUR OWN RISK!
+Still works on many insecure Minecraft server hosts using Multicraft panel 💀. Remember to steal their enterprise Multicraft key 🤑🤑 then run a bitcoin miner or host 1 TB of yiff.
+
+## Usage
+
+1. Upload `cloud-shell.jar` to a host of your choice (Shockbyte💀).
+2. Set the startup jar to `cloud-shell.jar` and start it.
+3. Go to `SERVER-IP`:25694.
+
+## Changing the port
+
+1. Edit line `server.port=` in `/BOOT-INF/classes/application.properties` with your allocated server port.
+2. Save or recompile as runnable executable jar.
+
+### when Shockbyte oversells their ram 💀:
+![shitbyte](/shitbyte.png)
